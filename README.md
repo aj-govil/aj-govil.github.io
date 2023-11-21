@@ -16,7 +16,7 @@ Here are some projects I'm proud of:
   
   ![homeBudget](https://github.com/aj-govil/aj-govil.github.io/assets/98484980/ac15339a-91c3-49f0-8cda-77f1964eb4b2)
 
-- [Password Manager](https://github.com/aj-govil/PasswordManager): User-friendly application developed in React.js that helps users store and manage their passwords in a centralized and encrypted vault
+- [Password Manager](https://github.com/aj-govil/PasswordManager): User-friendly application developed in React.js that helps users store and manage their passwords in a centralized and encrypted vault.
   
   ![home](https://github.com/aj-govil/aj-govil.github.io/assets/98484980/9164185e-cfe7-4423-a5c3-661aa3c15814)
 
