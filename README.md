@@ -39,11 +39,9 @@ Feel free to explore my [GitHub repositories](https://github.com/aj-govil) for m
 
 I'm always eager to learn and stay updated with the latest technologies. Currently exploring:
 
-- **Microservices Architecture:** Exploring technologies like Kubernetes and Istio.
-- **Frontend Frameworks:** Diving deeper into Vue.js and exploring TypeScript.
-- **Serverless Computing:** Experimenting with AWS Lambda and Serverless Framework.
-- **Machine Learning:** Beginning my journey with TensorFlow and scikit-learn.
-- **DevOps Practices:** Learning more about infrastructure as code (IaC) using Terraform.
+- **Microservices Architecture:** Exploring Kubernetes and Docker.
+- **Machine Learning:** Beginning my journey by training machine learning models.
+- **DevOps Practices:** Learning more about infrastructure as code (IaC) using Microsoft Azure.
 
 ## 🌍 Other Interests
 
