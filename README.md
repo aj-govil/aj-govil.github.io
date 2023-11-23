@@ -56,5 +56,6 @@ Outside of coding, I'm passionate about:
 ## 📫 Let's Connect!
 
 I'm open to collaboration and always looking to connect with fellow developers and professionals. Let's build something amazing together!
+Email me anytime at ajesh.govil@gmail.com
 
 Thanks for stopping by! 😊
