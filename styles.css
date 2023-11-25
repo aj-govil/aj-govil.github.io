@@ -16,6 +16,18 @@ header {
     border-bottom-right-radius: 10px;
 }
 
+.profile-picture-container {
+    text-align: center;
+}
+
+.profile-picture {
+    object-fit: cover;
+}
+
+.reference-text {
+    text-align: center;
+}
+
 nav ul {
     list-style-type: none;
     margin: 0;
@@ -28,12 +40,16 @@ nav li {
     margin-right: 20px;
 }
 
+div a {
+    color: #008000;
+}
+
 div a:visited {
     color: #008000;
 }
 
 div a:hover {
-    color: #4169E1;
+    color: #008000;
 }
 
 nav a {
@@ -45,7 +61,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #008000;
+    color: lightblue;
 }
 
 main {
@@ -66,6 +82,33 @@ main {
     max-width: 800px;
 }
 
+#game-container div {
+    display: flex;
+    justify-content: center;
+}
+
+#feedback {
+    margin-top: 20px;
+    font-weight: bold;
+    color: #008000;
+}
+
+.game-button {
+    padding: 15px 30px;
+    cursor: pointer;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    margin: 0 10px;
+    transition: background-color 0.3s ease-in-out; 
+}
+
+.game-button:hover {
+    background-color: lightblue;
+}
+
 .profile-picture {
     width: 150px;
     height: 150px;
@@ -80,6 +123,17 @@ main {
 
 .hero-text h1 {
     font-size: 2em;
+    color: #4169E1;
+    text-align: center;
+}
+
+.hero-text h2 {
+    color: #008000;
+    text-align: center;
+}
+
+.hero-text h3 {
+    font-size: 1.5em;
     color: #4169E1;
     text-align: center;
 }
@@ -112,6 +166,12 @@ main {
     padding: 20px;
     margin: 0 auto;
     max-width: 800px;
+}
+
+.interesting-facts h1 {
+    font-size: 2em;
+    color: #008000;
+    text-align: center;
 }
 
 .interesting-facts h2 {
